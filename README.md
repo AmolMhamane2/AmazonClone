@@ -1,6 +1,6 @@
 # AmazonClone
-Amazon Clone is a HTML5 and CSS based project of Web Development
-Author: @Amol Mhamane
+Amazon Clone is a HTML5 and CSS based project of Web Development<br><br>
+Author: @Amol Mhamane<br><br>
 Technologies:
              HTML5
              CSS
